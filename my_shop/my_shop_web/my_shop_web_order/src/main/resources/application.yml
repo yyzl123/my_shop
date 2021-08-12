@@ -1,0 +1,9 @@
+spring:
+  redis:
+    host: 120.26.176.124
+    port: 6379
+    password: admin123
+    database: 12
+
+server:
+  port: 9098

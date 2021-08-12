@@ -1,0 +1,25 @@
+server:
+  port: 8095
+spring:
+  datasource:
+    druid:
+      url: jdbc:mysql://120.26.176.124:3306/my_shop
+      # MySQL?????8.x   com.mysql.cj.jdbc.Driver
+      driver-class-name: com.mysql.jdbc.Driver
+      username: root
+      password: 123456
+      initial-size: 1
+      min-idle: 1
+      max-active: 20
+  data:
+    solr:
+      host: http://120.26.176.124:8983/solr/ik_core
+  rabbitmq:
+    virtual-host: admin
+    username: xiaoming
+    password: 123456
+    host: 120.26.176.124
+    port: 5672
+    listener:
+      simple:
+        acknowledge-mode: manual

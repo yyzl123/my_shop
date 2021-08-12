@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/my_shop_service/my_shop_service_product/pom.xml" />
+        <option value="$PROJECT_DIR$/my_shop_web/my_shop_web_background/pom.xml" />
+        <option value="$PROJECT_DIR$/my_shop_web/my_shop_web_front_index/pom.xml" />
+        <option value="$PROJECT_DIR$/my_shop_service/my_shop_service_product_type/pom.xml" />
+        <option value="$PROJECT_DIR$/my_shop_web/my_shop_web_user/pom.xml" />
+        <option value="$PROJECT_DIR$/my_shop_service/my_shop_service_user/pom.xml" />
+        <option value="$PROJECT_DIR$/my_shop_service/my_shop_service_search/pom.xml" />
+        <option value="$PROJECT_DIR$/my_shop_web/my_shop_web_search/pom.xml" />
+        <option value="$PROJECT_DIR$/my_shop_service/my_shop_service_page/pom.xml" />
+        <option value="$PROJECT_DIR$/my_shop_service/my_shop_service_sms/pom.xml" />
+        <option value="$PROJECT_DIR$/my_shop_web/my_shop_web_cart/pom.xml" />
+        <option value="$PROJECT_DIR$/my_shop_service/my_shop_service_email/pom.xml" />
+        <option value="$PROJECT_DIR$/my_shop_service/my_shop_service_pay/pom.xml" />
+        <option value="$PROJECT_DIR$/my_shop_web/my_shop_web_order/pom.xml" />
+        <option value="$PROJECT_DIR$/my_shop_api/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/my_shop_api/my_shop_api_cart/pom.xml" />
+        <option value="$PROJECT_DIR$/my_shop_api/my_shop_api_page/pom.xml" />
+        <option value="$PROJECT_DIR$/my_shop_api/my_shop_api_search/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8 (2)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

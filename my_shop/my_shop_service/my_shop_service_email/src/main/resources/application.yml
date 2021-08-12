@@ -1,0 +1,20 @@
+spring:
+  rabbitmq:
+    virtual-host: admin
+    username: xiaoming
+    password: 123456
+    host: 120.26.176.124
+    port: 5672
+  redis:
+    host: 120.26.176.124
+    port: 6379
+    password: admin123
+    database: 0
+  mail:
+    host: smtp.qq.com
+    username: 1257474230@qq.com
+    password: onmhhhhovdwbbhhd
+    default-encoding: utf-8
+server:
+  port: 8099
+

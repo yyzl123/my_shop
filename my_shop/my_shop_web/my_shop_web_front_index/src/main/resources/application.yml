@@ -1,0 +1,9 @@
+server:
+  port: 9092
+dubbo:
+  application:
+    name: front-index
+  registry:
+    address: zookeeper://120.26.176.124:2181
+    consumer:
+      retrices: 10

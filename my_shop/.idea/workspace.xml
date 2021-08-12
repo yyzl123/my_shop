@@ -1,0 +1,1136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ed84e9b-5c8a-4774-97b2-3ec51dc3604a" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/my_shop_basic/my_shop_entity/target/" />
+    <ignored path="$PROJECT_DIR$/my_shop_web/target/" />
+    <ignored path="$PROJECT_DIR$/my_shop_service/target/" />
+    <ignored path="$PROJECT_DIR$/my_shop_basic/target/" />
+    <ignored path="$PROJECT_DIR$/my_shop_service/my_shop_service_product/target/" />
+    <ignored path="$PROJECT_DIR$/my_shop_api/target/" />
+    <ignored path="$PROJECT_DIR$/my_shop_basic/my_shop_mapper/target/" />
+    <ignored path="$PROJECT_DIR$/my_shop_basic/my_shop_common/target/" />
+    <ignored path="$PROJECT_DIR$/my_shop_web/my_shop_web_background/target/" />
+    <ignored path="$PROJECT_DIR$/my_shop_api/my_shop_api_product/target/" />
+    <ignored path="$PROJECT_DIR$/my_shop_web/my_shop_web_front_index/target/" />
+    <ignored path="$PROJECT_DIR$/my_shop_service/my_shop_service_product_type/target/" />
+    <ignored path="$PROJECT_DIR$/my_shop_api/my_shop_api_product_type/target/" />
+    <ignored path="$PROJECT_DIR$/my_shop_web/my_shop_web_user/target/" />
+    <ignored path="$PROJECT_DIR$/my_shop_api/my_shop_api_user/target/" />
+    <ignored path="$PROJECT_DIR$/my_shop_service/my_shop_service_user/target/" />
+    <ignored path="$PROJECT_DIR$/my_shop_api/my_shop_api_register/target/" />
+    <ignored path="$PROJECT_DIR$/my_shop_service/my_shop_service_register/target/" />
+    <ignored path="$PROJECT_DIR$/my_shop_web/my_shop_web_register/target/" />
+    <ignored path="$PROJECT_DIR$/my_shop_api/my_shop_api_search/target/" />
+    <ignored path="$PROJECT_DIR$/my_shop_service/my_shop_service_search/target/" />
+    <ignored path="$PROJECT_DIR$/my_shop_web/my_shop_web_search/target/" />
+    <ignored path="$PROJECT_DIR$/my_shop_service/my_shop_service_page/target/" />
+    <ignored path="$PROJECT_DIR$/my_shop_api/my_shop_api_page/target/" />
+    <ignored path="$PROJECT_DIR$/my_shop_service/my_shop_service_sms/target/" />
+    <ignored path="$PROJECT_DIR$/my_shop_web/my_shop_web_cart/target/" />
+    <ignored path="$PROJECT_DIR$/my_shop_service/my_shop_service_cart/target/" />
+    <ignored path="$PROJECT_DIR$/my_shop_api/my_shop_api_cart/target/" />
+    <ignored path="$PROJECT_DIR$/my_shop_service/my_shop_service_email/target/" />
+    <ignored path="$PROJECT_DIR$/my_shop_service/my_shop_service_aipay/target/" />
+    <ignored path="$PROJECT_DIR$/my_shop_service/my_shop_service_pay/target/" />
+    <ignored path="$PROJECT_DIR$/my_shop_service/my_shop_service_order/target/" />
+    <ignored path="$PROJECT_DIR$/my_shop_web/my_shop_web_order/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;a rel=&quot;nofollow&quot;</find>
+      <find>小叮当</find>
+      <find>http://10.31.153.10/</find>
+      <find>数量</find>
+      <find>src</find>
+      <find>注册</find>
+      <find>form</find>
+      <find>showDetail</find>
+      <find>addCart</find>
+      <find>提交订单</find>
+      <find>subOrder</find>
+      <find>pay-sum</find>
+      <find>loginBtn</find>
+      <find>selectByUname</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\mavenwork\my_shop\my_shop_web\my_shop_web_order\src\test\java\com\qf</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/my_shop_service/my_shop_service_order/pom.xml" />
+        <option value="$PROJECT_DIR$/my_shop_service/my_shop_service_order/src/main/resources/templates/pay.html" />
+        <option value="$PROJECT_DIR$/my_shop_service/my_shop_service_order/src/main/java/com/qf/my_shop_service_order/controller/OrderServiceController.java" />
+        <option value="$PROJECT_DIR$/my_shop_web/my_shop_web_cart/src/main/java/com/qf/my_shop_web_cart/MyShopWebCartApplication.java" />
+        <option value="$PROJECT_DIR$/my_shop_web/my_shop_web_order/pom.xml" />
+        <option value="$PROJECT_DIR$/my_shop_web/my_shop_web_order/src/main/java/com/qf/my_shop_web_order/config/WebConfig.java" />
+        <option value="$PROJECT_DIR$/my_shop_service/my_shop_service_sms/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/my_shop_service/my_shop_service_product_type/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/my_shop_web/my_shop_web_cart/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/my_shop_web/my_shop_web_order/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/my_shop_service/my_shop_service_page/src/main/resources/templates/introduction.ftl" />
+        <option value="$PROJECT_DIR$/my_shop_service/my_shop_service_page/src/main/resources/static/63.html" />
+        <option value="$PROJECT_DIR$/my_shop_service/my_shop_service_page/src/main/resources/static/62.html" />
+        <option value="$PROJECT_DIR$/my_shop_service/my_shop_service_page/src/main/resources/static/61.html" />
+        <option value="$PROJECT_DIR$/my_shop_web/my_shop_web_order/src/main/java/com/qf/my_shop_web_order/controller/OrderServiceController.java" />
+        <option value="$PROJECT_DIR$/my_shop_web/my_shop_web_order/src/test/java/com/qf/my_shop_web_order/MyShopWebOrderApplicationTests.java" />
+        <option value="$PROJECT_DIR$/my_shop_service/my_shop_service_pay/src/main/java/com/qf/my_shop_service_pay/controller/AlipayController.java" />
+        <option value="$PROJECT_DIR$/my_shop_service/my_shop_service_product/src/test/java/com/qf/my/shop/service/product/MyShopServiceProductApplicationTests.java" />
+        <option value="$PROJECT_DIR$/my_shop_web/my_shop_web_background/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/my_shop_web/my_shop_web_user/src/main/resources/templates/login.html" />
+        <option value="$PROJECT_DIR$/my_shop_web/my_shop_web_user/src/main/resources/templates/register.html" />
+        <option value="$PROJECT_DIR$/my_shop_api/my_shop_api_product_type/src/main/java/com/qf/api/product/type/IProductTypeService.java" />
+        <option value="$PROJECT_DIR$/my_shop_basic/my_shop_mapper/src/main/java/com/qf/mapper/TUserMapper.java" />
+        <option value="$PROJECT_DIR$/my_shop_basic/my_shop_common/src/main/java/com/qf/Util/HttpClientUtils.java" />
+        <option value="$PROJECT_DIR$/my_shop_web/my_shop_web_user/src/test/java/com/qf/my_shop_web_user/MyShopWebUserApplicationTests.java" />
+        <option value="$PROJECT_DIR$/my_shop_service/my_shop_service_user/src/main/java/com/qf/my_shop_service_user/Impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/my_shop_service/my_shop_service_search/pom.xml" />
+        <option value="$PROJECT_DIR$/my_shop_web/my_shop_web_user/src/main/java/com/qf/my_shop_web_user/MyShopWebUserApplication.java" />
+        <option value="$PROJECT_DIR$/my_shop_web/my_shop_web_cart/src/test/java/com/qf/my_shop_web_cart/MyShopWebCartApplicationTests.java" />
+        <option value="$PROJECT_DIR$/my_shop_web/my_shop_web_user/pom.xml" />
+        <option value="$PROJECT_DIR$/my_shop_service/my_shop_service_product/src/main/java/com/qf/my/shop/service/product/Impl/ProductDescServiceImpl.java" />
+        <option value="$PROJECT_DIR$/my_shop_web/my_shop_web_user/src/main/java/com/qf/my_shop_web_user/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/my_shop_web/my_shop_web_cart/src/main/java/com/qf/my_shop_web_cart/service/Impl/CartServiceImpl.java" />
+        <option value="$PROJECT_DIR$/my_shop_web/my_shop_web_cart/src/main/java/com/qf/my_shop_web_cart/controller/CartController.java" />
+        <option value="$PROJECT_DIR$/my_shop_web/my_shop_web_front_index/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/my_shop_service/my_shop_service_user/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/my_shop_service/my_shop_service_product/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/my_shop_web/my_shop_web_background/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/my_shop_web/my_shop_web_background/src/main/java/com/qf/my_shop_web_background/controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/my_shop_service/my_shop_service_pay/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/my_shop_service/my_shop_service_pay/pom.xml" />
+        <option value="$PROJECT_DIR$/my_shop_service/my_shop_service_product/src/main/java/com/qf/my/shop/service/product/MyShopServiceProductApplication.java" />
+        <option value="$PROJECT_DIR$/my_shop_service/my_shop_service_search/src/main/java/com/qf/my_shop_service_search/MyShopServiceSearchApplication.java" />
+        <option value="$PROJECT_DIR$/my_shop_service/my_shop_service_search/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/my_shop_web/my_shop_web_user/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/my_shop_service/my_shop_service_search/src/main/resources/templates/search.html" />
+        <option value="$PROJECT_DIR$/my_shop_service/my_shop_service_pay/src/main/resources/templates/success.html" />
+        <option value="$PROJECT_DIR$/my_shop_web/my_shop_web_order/src/main/resources/templates/pay.html" />
+        <option value="$PROJECT_DIR$/my_shop_web/my_shop_web_cart/src/main/resources/templates/shopcart.html" />
+        <option value="$PROJECT_DIR$/my_shop_service/my_shop_service_page/pom.xml" />
+        <option value="$PROJECT_DIR$/my_shop_service/my_shop_service_search/src/main/java/com/qf/my_shop_service_search/Impl/SearchServiceImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="my_shop" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="my_shop" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="699" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="my_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_shop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="my_shop_service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="my_shop_service" type="462c0819:PsiDirectoryNode" />
+              <item name="my_shop_service_search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="my_shop_service" type="462c0819:PsiDirectoryNode" />
+              <item name="my_shop_service_search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/my_shop_web/my_shop_web_order/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15345268" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="DockerRegistry" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\mavenwork\my_shop\my_shop_web\my_shop_web_front_index\src\main\resources\templates" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.qf.my_shop_web_order.config" />
+      <recent name="com.qf.entity" />
+      <recent name="com.qf.my_shop_web_cart.service.Impl" />
+      <recent name="com.qf.my_shop_web_cart.service" />
+      <recent name="com.qf.api.search" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\mavenwork\my_shop\my_shop_web\my_shop_web_order\src\main\resources" />
+      <recent name="D:\mavenwork\my_shop\my_shop_service\my_shop_service_pay\src\main\resources" />
+      <recent name="D:\mavenwork\my_shop\my_shop_service\my_shop_service_search\src\main\resources" />
+      <recent name="D:\mavenwork\my_shop\my_shop_web\my_shop_web_front_index\src\main\resources" />
+      <recent name="D:\mavenwork\my_shop\my_shop_web\my_shop_web_cart\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.3153014" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.MyShopServicePageApplication">
+    <configuration name="MyShopServiceProductApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my_shop_service_product" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qf.my.shop.service.product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qf.my.shop.service.product" />
+      <option name="MAIN_CLASS_NAME" value="com.qf.my.shop.service.product.MyShopServiceProductApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyShopWebUserApplicationTests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my_shop_web_user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qf.my_shop_web_user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qf.my_shop_web_user" />
+      <option name="MAIN_CLASS_NAME" value="com.qf.my_shop_web_user.MyShopWebUserApplicationTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyShopServiceEmailApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="my_shop_service_email" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.my_shop_service_email.MyShopServiceEmailApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyShopServicePageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="my_shop_service_page" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.my_shop_service_page.MyShopServicePageApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyShopServicePayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="my_shop_service_pay" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.my_shop_service_pay.MyShopServicePayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyShopServiceProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="my_shop_service_product" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.my.shop.service.product.MyShopServiceProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyShopServiceProductTypeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="my_shop_service_product_type" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.my_shop_service_product_type.MyShopServiceProductTypeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyShopServiceSearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="my_shop_service_search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.my_shop_service_search.MyShopServiceSearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyShopServiceSmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="my_shop_service_sms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qf.my.shop.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.my.shop.service.MyShopServiceSmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyShopServiceUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="my_shop_service_user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.my_shop_service_user.MyShopServiceUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyShopWebBackgroundApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="my_shop_web_background" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qf.my_shop_web_background.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.my_shop_web_background.MyShopWebBackgroundApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyShopWebCartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="my_shop_web_cart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.my_shop_web_cart.MyShopWebCartApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="D:\jdk1.8.0_261\jre" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyShopWebFrontIndexApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="my_shop_web_front_index" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.my_shop_web_front_index.MyShopWebFrontIndexApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyShopWebOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="my_shop_web_order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.my_shop_web_order.MyShopWebOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyShopWebUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="my_shop_web_user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qf.my_shop_web_user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.my_shop_web_user.MyShopWebUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.MyShopServiceProductApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.MyShopWebUserApplicationTests.test" />
+      <item itemvalue="Spring Boot.MyShopServiceEmailApplication" />
+      <item itemvalue="Spring Boot.MyShopServicePageApplication" />
+      <item itemvalue="Spring Boot.MyShopServicePayApplication" />
+      <item itemvalue="Spring Boot.MyShopServiceProductApplication" />
+      <item itemvalue="Spring Boot.MyShopServiceProductTypeApplication" />
+      <item itemvalue="Spring Boot.MyShopServiceSearchApplication" />
+      <item itemvalue="Spring Boot.MyShopServiceUserApplication" />
+      <item itemvalue="Spring Boot.MyShopWebCartApplication" />
+      <item itemvalue="Spring Boot.MyShopWebFrontIndexApplication" />
+      <item itemvalue="Spring Boot.MyShopWebOrderApplication" />
+      <item itemvalue="Spring Boot.MyShopServiceSmsApplication" />
+      <item itemvalue="Spring Boot.MyShopWebBackgroundApplication" />
+      <item itemvalue="Spring Boot.MyShopWebUserApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MyShopWebBackgroundApplication" />
+        <item itemvalue="Spring Boot.MyShopWebUserApplication" />
+        <item itemvalue="Spring Boot.MyShopServiceSmsApplication" />
+        <item itemvalue="JUnit.MyShopServiceProductApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.MyShopWebUserApplicationTests.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\86139\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ed84e9b-5c8a-4774-97b2-3ec51dc3604a" name="Default Changelist" comment="" />
+      <created>1589267471827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589267471827</updated>
+      <workItem from="1589267474779" duration="241000" />
+      <workItem from="1589270562870" duration="1940000" />
+      <workItem from="1589272559408" duration="4784000" />
+      <workItem from="1589282266048" duration="13400000" />
+      <workItem from="1589298613591" duration="857000" />
+      <workItem from="1589330036274" duration="7463000" />
+      <workItem from="1589341805008" duration="13210000" />
+      <workItem from="1589373686853" duration="6526000" />
+      <workItem from="1589416207256" duration="3032000" />
+      <workItem from="1589463102150" duration="167000" />
+      <workItem from="1589463304392" duration="3768000" />
+      <workItem from="1589502529115" duration="18282000" />
+      <workItem from="1589542081081" duration="3519000" />
+      <workItem from="1589593179000" duration="635000" />
+      <workItem from="1589596012307" duration="1621000" />
+      <workItem from="1589615200055" duration="1767000" />
+      <workItem from="1589636624012" duration="1187000" />
+      <workItem from="1589684451746" duration="340000" />
+      <workItem from="1589685240698" duration="2522000" />
+      <workItem from="1589700423022" duration="2129000" />
+      <workItem from="1589714708124" duration="10171000" />
+      <workItem from="1589969962975" duration="9162000" />
+      <workItem from="1589983628106" duration="28000" />
+      <workItem from="1590030950313" duration="3411000" />
+      <workItem from="1590040573076" duration="8846000" />
+      <workItem from="1590057917641" duration="14308000" />
+      <workItem from="1590108210903" duration="29849000" />
+      <workItem from="1590192986517" duration="13273000" />
+      <workItem from="1590233116750" duration="13020000" />
+      <workItem from="1590284176227" duration="25342000" />
+      <workItem from="1590376344627" duration="14057000" />
+      <workItem from="1590401872215" duration="12432000" />
+      <workItem from="1590415765966" duration="1709000" />
+      <workItem from="1590417702507" duration="757000" />
+      <workItem from="1590453178697" duration="2288000" />
+      <workItem from="1590488630635" duration="12633000" />
+      <workItem from="1590550418737" duration="226000" />
+      <workItem from="1590580977380" duration="3224000" />
+      <workItem from="1590626436507" duration="76000" />
+      <workItem from="1590723142582" duration="810000" />
+      <workItem from="1590740900982" duration="15520000" />
+      <workItem from="1590798403855" duration="22289000" />
+      <workItem from="1590841588747" duration="9123000" />
+      <workItem from="1590888788055" duration="8117000" />
+      <workItem from="1590910594061" duration="14773000" />
+      <workItem from="1590932693374" duration="325000" />
+      <workItem from="1590978697166" duration="5626000" />
+      <workItem from="1590997322582" duration="20771000" />
+      <workItem from="1591056866289" duration="1892000" />
+      <workItem from="1591058906029" duration="9688000" />
+      <workItem from="1591076500241" duration="21923000" />
+      <workItem from="1591143554236" duration="1541000" />
+      <workItem from="1591152791191" duration="7264000" />
+      <workItem from="1591165765877" duration="7607000" />
+      <workItem from="1591176055718" duration="10459000" />
+      <workItem from="1591187133810" duration="5249000" />
+      <workItem from="1591196905301" duration="879000" />
+      <workItem from="1591197842686" duration="462000" />
+      <workItem from="1591198346237" duration="868000" />
+      <workItem from="1591199343896" duration="1097000" />
+      <workItem from="1591221965534" duration="1609000" />
+      <workItem from="1591223847484" duration="1554000" />
+      <workItem from="1591229886107" duration="3362000" />
+      <workItem from="1591240287894" duration="7189000" />
+      <workItem from="1591255740487" duration="32789000" />
+      <workItem from="1591291381601" duration="5971000" />
+      <workItem from="1591297451083" duration="7261000" />
+      <workItem from="1591316022898" duration="6576000" />
+      <workItem from="1591322680815" duration="8508000" />
+      <workItem from="1591347875590" duration="1197000" />
+      <workItem from="1591426176624" duration="1308000" />
+      <workItem from="1591447361596" duration="460000" />
+      <workItem from="1591450186793" duration="1314000" />
+      <workItem from="1591691966895" duration="142000" />
+      <workItem from="1591794874887" duration="588000" />
+      <workItem from="1591795474101" duration="1997000" />
+      <workItem from="1591835086471" duration="1414000" />
+      <workItem from="1591882303255" duration="1758000" />
+      <workItem from="1591928802535" duration="39000" />
+      <workItem from="1593354898716" duration="925000" />
+      <workItem from="1593355942717" duration="671000" />
+      <workItem from="1593356724588" duration="166000" />
+      <workItem from="1597827955072" duration="39000" />
+      <workItem from="1601188150706" duration="35000" />
+      <workItem from="1604842503687" duration="208000" />
+      <workItem from="1606385787464" duration="298000" />
+      <workItem from="1606723624606" duration="303000" />
+      <workItem from="1608305722171" duration="99000" />
+      <workItem from="1613613206398" duration="566000" />
+      <workItem from="1614345437077" duration="659000" />
+      <workItem from="1615646176188" duration="24000" />
+      <workItem from="1615646224232" duration="234000" />
+      <workItem from="1616459616217" duration="1203000" />
+      <workItem from="1616460898251" duration="2230000" />
+      <workItem from="1616480328621" duration="199000" />
+      <workItem from="1616480596217" duration="4716000" />
+      <workItem from="1616488643266" duration="2902000" />
+      <workItem from="1616503207313" duration="4140000" />
+      <workItem from="1616678807155" duration="14000" />
+      <workItem from="1624952811719" duration="271000" />
+      <workItem from="1626743008298" duration="4000" />
+      <workItem from="1627370569338" duration="4694000" />
+      <workItem from="1627377866097" duration="394000" />
+      <workItem from="1627433975016" duration="16276000" />
+      <workItem from="1627465301864" duration="22000" />
+      <workItem from="1627465643444" duration="5036000" />
+      <workItem from="1627522061630" duration="29495000" />
+      <workItem from="1627869919440" duration="2582000" />
+      <workItem from="1627951662805" duration="654000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MyShopWebUserApplicationTests - 2021.07.27 at 17h 30m 12s.xml">
+      <configuration name="MyShopWebUserApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyShopWebUserApplicationTests_test - 2021.07.28 at 09h 05m 21s.xml">
+      <configuration name="MyShopWebUserApplicationTests.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyShopWebUserApplicationTests_test - 2021.07.28 at 10h 51m 59s.xml">
+      <configuration name="MyShopWebUserApplicationTests.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyShopWebUserApplicationTests - 2021.07.28 at 10h 53m 19s.xml">
+      <configuration name="MyShopWebUserApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyShopWebUserApplicationTests_test - 2021.07.28 at 10h 54m 23s.xml">
+      <configuration name="MyShopWebUserApplicationTests.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyShopWebUserApplicationTests_test - 2021.07.28 at 11h 15m 36s.xml">
+      <configuration name="MyShopWebUserApplicationTests.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyShopWebUserApplicationTests_test - 2021.07.28 at 11h 18m 49s.xml">
+      <configuration name="MyShopWebUserApplicationTests.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyShopWebCartApplicationTests_test - 2021.07.28 at 17h 38m 39s.xml">
+      <configuration name="MyShopWebCartApplicationTests.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyShopWebUserApplicationTests_test - 2021.07.28 at 17h 48m 48s.xml">
+      <configuration name="MyShopWebUserApplicationTests.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyShopServiceProductApplicationTests_contextLoads - 2021.07.28 at 21h 20m 27s.xml">
+      <configuration name="MyShopServiceProductApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="592580000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49702382" visible="true" weight="0.30635402" />
+      <window_info id="Structure" order="1" sideWeight="0.5029762" side_tool="true" weight="0.34039333" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.48608837" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6759411" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5015129" side_tool="true" weight="0.5090016" />
+      <window_info anchor="bottom" id="Spring" order="12" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3289689" />
+      <window_info anchor="bottom" id="Problems" order="14" weight="0.3289689" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run Dashboard" order="16" sideWeight="0.49848714" weight="0.3764321" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.2677761" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49702382" weight="0.29727685" />
+      <window_info id="Structure" order="1" sideWeight="0.5029762" side_tool="true" weight="0.34039333" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.48608837" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6759411" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5015129" side_tool="true" weight="0.5090016" />
+      <window_info anchor="bottom" id="Spring" order="12" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3289689" />
+      <window_info anchor="bottom" id="Problems" order="14" weight="0.3289689" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="16" sideWeight="0.49848714" visible="true" weight="0.3764321" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.2677761" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="searchvoList.get(26).tbItemPdesc" />
+      </configuration>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="user.flag" />
+        <watch expression="user" />
+        <watch expression="user.flag" />
+        <watch expression="user.uname" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/my_shop_service/my_shop_service_pay/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="63" column="43" selection-start-line="63" selection-start-column="43" selection-end-line="63" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_service/my_shop_service_product/src/main/java/com/qf/my/shop/service/product/MyShopServiceProductApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_service/my_shop_service_search/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2025" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_service/my_shop_service_product/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2268" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_web/my_shop_web_cart/src/main/java/com/qf/my_shop_web_cart/MyShopWebCartApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_basic/my_shop_common/src/main/java/com/qf/VO/Searchvo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_service/my_shop_service_user/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_web/my_shop_web_user/src/main/java/com/qf/my_shop_web_user/MyShopWebUserApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_web/my_shop_web_user/target/classes/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_service/my_shop_service_search/src/main/resources/static/js/list.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_web/my_shop_web_front_index/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-918">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#i#1;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_web/my_shop_web_background/target/classes/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-324" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_web/my_shop_web_background/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="64" column="45" selection-start-line="64" selection-start-column="45" selection-end-line="64" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_web/my_shop_web_user/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-198">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_web/my_shop_web_front_index/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_service/my_shop_service_product/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_web/my_shop_web_cart/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_web/my_shop_web_background/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_service/my_shop_service_pay/src/main/resources/static/js/jquery-3.4.1.min.js" />
+    <entry file="file://$PROJECT_DIR$/my_shop_service/my_shop_service_page/src/main/resources/static/69.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_service/my_shop_service_pay/src/main/resources/static/js/list.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_service/my_shop_service_page/src/main/resources/templates/introduction.ftl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_web/my_shop_web_order/src/main/resources/static/js/list.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_service/my_shop_service_pay/src/main/resources/templates/success.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_web/my_shop_web_order/src/main/resources/templates/pay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_web/my_shop_web_cart/src/main/resources/templates/shopcart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_service/my_shop_service_search/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_service/my_shop_service_search/src/test/java/com/qf/my_shop_service_search/MyShopServiceSearchApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_service/my_shop_service_page/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="44" column="20" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_web/my_shop_web_background/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="146" column="27" selection-start-line="146" selection-start-column="22" selection-end-line="146" selection-end-column="27" />
+          <folding>
+            <element signature="e#6328#7108#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/amqp/spring-rabbit/2.2.5.RELEASE/spring-rabbit-2.2.5.RELEASE.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="555" column="16" selection-start-line="555" selection-start-column="16" selection-end-line="555" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_web/my_shop_web_background/src/main/java/com/qf/my_shop_web_background/config/RabbitDeleteConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_basic/my_shop_mapper/src/main/java/com/qf/mapper/TProductTypeMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_web/my_shop_web_background/src/main/java/com/qf/my_shop_web_background/config/RabbitConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_basic/my_shop_common/src/main/java/com/qf/common/IBaseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_api/my_shop_api_product/src/main/java/com/qf/api/product/IProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_basic/my_shop_mapper/src/main/java/com/qf/mapper/TProductMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_basic/my_shop_mapper/src/main/java/com/qf/mapper/TProductMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1215" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_service/my_shop_service_product/src/main/java/com/qf/my/shop/service/product/Impl/ProductServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="55" column="25" selection-start-line="55" selection-start-column="15" selection-end-line="55" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1405#1406#0" expanded="true" />
+            <element signature="e#1434#1435#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_basic/my_shop_common/src/main/java/com/qf/constant/QueueConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_basic/my_shop_common/src/main/java/com/qf/constant/RabbitConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_service/my_shop_service_search/src/main/java/com/qf/my_shop_service_search/config/RabbitConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="27" column="84" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_service/my_shop_service_search/src/main/java/com/qf/my_shop_service_search/MyShopServiceSearchApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_web/my_shop_web_background/src/main/java/com/qf/my_shop_web_background/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="99" column="100" selection-start-line="99" selection-start-column="93" selection-end-line="99" selection-end-column="100" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1493#1533#0" />
+            <element signature="e#1805#1974#0" />
+            <element signature="method#uploadImage#0;class#IndexController#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_service/my_shop_service_search/src/main/resources/templates/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="59" column="61" selection-start-line="59" selection-start-column="54" selection-end-line="59" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_service/my_shop_service_search/src/main/java/com/qf/my_shop_service_search/Controller/SearchController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_service/my_shop_service_search/src/main/java/com/qf/my_shop_service_search/inter/ISearchService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_basic/my_shop_mapper/src/main/java/com/qf/mapper/TProductSearchMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_basic/my_shop_mapper/src/main/java/com/qf/mapper/TProductSearchMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_shop_service/my_shop_service_search/src/main/java/com/qf/my_shop_service_search/Impl/SearchServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-972">
+          <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (my_shop_web_front_index)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8 (2)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>my_shop_service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: axis:axis-wsdl4j:1.5.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+server:
+  port: 8096
+resourcepath: /usr/local/docker/nginx/data/
+spring:
+  rabbitmq:
+    virtual-host: admin
+    username: xiaoming
+    password: 123456
+    host: 120.26.176.124
+    port: 5672
+    listener:
+      simple:
+        acknowledge-mode: manual
+

@@ -1,0 +1,35 @@
+dubbo:
+  application:
+    name: service-user
+  registry:
+    address: zookeeper://120.26.176.124:2181
+  protocol:
+    port: 20893
+server:
+  port: 8093
+spring:
+  redis:
+    host: 120.26.176.124
+    port: 6379
+    password: admin123
+    database: 12
+  datasource:
+    druid:
+      url: jdbc:mysql://120.26.176.124:3306/my_shop?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai
+      # MySQL?????8.x   com.mysql.cj.jdbc.Driver
+      driver-class-name: com.mysql.jdbc.Driver
+      username: root
+      password: 123456
+      initial-size: 1
+      min-idle: 1
+      max-active: 20
+  rabbitmq:
+    virtual-host: admin
+    username: xiaoming
+    password: 123456
+    host: 120.26.176.124
+    port: 5672
+activeAccountServer: http://localhost:8099/email/active?uuid=
+
+
+

@@ -1,0 +1,27 @@
+dubbo:
+  application:
+    name: service-type-product
+  registry:
+    address: zookeeper://120.26.176.124:2181
+  protocol:
+    port: 20892
+server:
+  port: 8092
+spring:
+  redis:
+    host: 120.26.176.124
+    port: 6379
+    password: admin123
+    database: 12
+  datasource:
+    druid:
+      url: jdbc:mysql://120.26.176.124:3306/my_shop
+      # MySQL?????8.x   com.mysql.cj.jdbc.Driver
+      driver-class-name: com.mysql.jdbc.Driver
+      username: root
+      password: 123456
+      initial-size: 1
+      min-idle: 1
+      max-active: 20
+
+

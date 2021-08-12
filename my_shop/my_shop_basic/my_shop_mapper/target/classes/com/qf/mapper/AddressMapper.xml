@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.qf.mapper.AddressMapper">
+  <resultMap id="BaseResultMap" type="com.qf.entity.AddressDTO">
+    <id column="id" jdbcType="BIGINT" property="id" />
+    <result column="orderid" jdbcType="VARCHAR" property="orderid" />
+    <result column="shipname" jdbcType="VARCHAR" property="shipname" />
+    <result column="shipaddress" jdbcType="VARCHAR" property="shipaddress" />
+    <result column="provinceCode" jdbcType="VARCHAR" property="provinceCode" />
+    <result column="province" jdbcType="VARCHAR" property="province" />
+    <result column="cityCode" jdbcType="VARCHAR" property="cityCode" />
+    <result column="area" jdbcType="VARCHAR" property="area" />
+    <result column="tel" jdbcType="VARCHAR" property="tel" />
+    <result column="zip" jdbcType="VARCHAR" property="zip" />
+    <result column="sex" jdbcType="VARCHAR" property="sex" />
+    <result column="remark" jdbcType="VARCHAR" property="remark" />
+    <result column="phone" jdbcType="VARCHAR" property="phone" />
+    <result column="areaCode" jdbcType="VARCHAR" property="areaCode" />
+    <result column="city" jdbcType="VARCHAR" property="city" />
+    <result column="dist" jdbcType="VARCHAR" property="dist" />
+    <result column="street" jdbcType="VARCHAR" property="street" />
+  </resultMap>
+  <sql id="Base_Column_List">
+    id, orderid, shipname, shipaddress, provinceCode, province,
+    cityCode, city, areaCode, area, area, tel, zip, sex, remark,dist,street
+  </sql>
+  <select id="showAddress" parameterType="java.lang.Long" resultMap="BaseResultMap">
+    select 
+    <include refid="Base_Column_List" />
+    from t_ordership
+  </select>
+
+
+
+
+</mapper>

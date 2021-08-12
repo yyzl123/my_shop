@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="my_shop_entity" />
+        <module name="my_shop_api_product" />
+        <module name="my_shop_service_product" />
+        <module name="my_shop_api_search" />
+        <module name="my_shop_service_product_type" />
+        <module name="my_shop_service_pay" />
+        <module name="my_shop_web_order" />
+        <module name="my_shop_service_search" />
+        <module name="my_shop_api_user" />
+        <module name="my_shop_common" />
+        <module name="my_shop_service_sms" />
+        <module name="my_shop_api_register" />
+        <module name="my_shop_web_cart" />
+        <module name="my_shop_web_front_index" />
+        <module name="my_shop_web" />
+        <module name="my_shop_service_email" />
+        <module name="my_shop_web_background" />
+        <module name="my_shop_service_user" />
+        <module name="my_shop_api_product_type" />
+        <module name="my_shop_mapper" />
+        <module name="my_shop_service_page" />
+        <module name="my_shop_web_user" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="my_shop_api_cart" target="1.5" />
+      <module name="my_shop_api_page" target="1.5" />
+      <module name="my_shop_api_search" target="1.5" />
+      <module name="my_shop_service_aipay" target="1.8" />
+      <module name="my_shop_service_cart" target="1.8" />
+      <module name="my_shop_service_order" target="1.8" />
+      <module name="my_shop_service_register" target="1.8" />
+      <module name="my_shop_web_register" target="1.8" />
+      <module name="my_shop_web_search" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="my_shop_service_aipay" options="-parameters" />
+      <module name="my_shop_service_cart" options="-parameters" />
+      <module name="my_shop_service_email" options="-parameters" />
+      <module name="my_shop_service_order" options="-parameters" />
+      <module name="my_shop_service_page" options="-parameters" />
+      <module name="my_shop_service_pay" options="-parameters" />
+      <module name="my_shop_service_product" options="-parameters" />
+      <module name="my_shop_service_product_type" options="-parameters" />
+      <module name="my_shop_service_register" options="-parameters" />
+      <module name="my_shop_service_search" options="-parameters" />
+      <module name="my_shop_service_sms" options="-parameters" />
+      <module name="my_shop_service_user" options="-parameters" />
+      <module name="my_shop_web_background" options="-parameters" />
+      <module name="my_shop_web_cart" options="-parameters" />
+      <module name="my_shop_web_front_index" options="-parameters" />
+      <module name="my_shop_web_order" options="-parameters" />
+      <module name="my_shop_web_register" options="-parameters" />
+      <module name="my_shop_web_search" options="-parameters" />
+      <module name="my_shop_web_user" options="-parameters" />
+    </option>
+  </component>
+</project>

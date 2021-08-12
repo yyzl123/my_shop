@@ -1,0 +1,37 @@
+server:
+  port: 9090
+dubbo:
+  application:
+    name: background
+  registry:
+    address: zookeeper://120.26.176.124:2181
+    consumer:
+      retrices: 10
+
+fdfs:
+  so-timeout: 1500
+  connect-timeout: 600
+  pool:
+    jmx-enabled: false
+  thumb-image:
+    width: 100
+    height: 100
+  tracker-list: 120.26.176.124:22122
+images:
+  server: http://120.26.176.124:8888/
+
+spring:
+  redis:
+    host: 120.26.176.124
+    port: 6379
+    password: admin123
+    database: 12
+  rabbitmq:
+    virtual-host: admin
+    username: xiaoming
+    password: 123456
+    host: 120.26.176.124
+    port: 5672
+    listener:
+      simple:
+        acknowledge-mode: manual

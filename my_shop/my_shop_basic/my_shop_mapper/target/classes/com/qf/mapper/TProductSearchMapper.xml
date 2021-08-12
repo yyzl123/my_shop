@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.qf.mapper.TProductSearchMapper">
+  <resultMap id="BaseResultMap" type="com.qf.VO.Searchvo">
+    <id column="id" jdbcType="BIGINT" property="id" />
+    <result column="tb_item_pname" jdbcType="VARCHAR" property="tbItemPname" />
+    <result column="tb_item_price" jdbcType="DECIMAL" property="tbItemPrice" />
+    <result column="tb_item_pdesc" jdbcType="VARCHAR" property="tbItemPdesc" />
+    <result column="tb_item_pimage" jdbcType="VARCHAR" property="tbItemPimage" />
+  </resultMap>
+
+  <select id="selectAll" resultMap="BaseResultMap">
+SELECT
+  a.pid AS id,
+  a.pname AS tb_item_pname,
+  a.price AS tb_item_price,
+  b.`pdesc` AS tb_item_pdesc,
+  a.pimage AS tb_item_pimage
+FROM
+  t_product AS a
+  LEFT JOIN t_product_desc AS b
+    ON a.`pid` = b.`pid`
+  </select>
+
+</mapper>
